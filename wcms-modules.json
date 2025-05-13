@@ -4,10 +4,10 @@
     "sky": {
       "name": "Forma Psyche",
       "repo": "https://github.com/Alp3n/formapsyche-wcms/tree/main",
-      "zip": "https://github.com/Alp3n/formapsyche-wcms/archive/master.zip",
+      "zip": "https://github.com/Alp3n/formapsyche-wcms/archive/main.zip",
       "summary": "Szablon stworzony dla Forma Psyche",
       "version": "0.1",
-      "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+      "image": "https://raw.githubusercontent.com/Alp3n/formapsyche-wcms/refs/heads/main/preview.jpg"
     }
   }
 }
