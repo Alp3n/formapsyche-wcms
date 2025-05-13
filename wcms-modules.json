@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "themes": {
+    "sky": {
+      "name": "Forma Psyche",
+      "repo": "https://github.com/robiso/sky/tree/master",
+      "zip": "https://github.com/robiso/sky/archive/master.zip",
+      "summary": "Szablon stworzony dla Forma Psyche",
+      "version": "0.1",
+      "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
+    }
+  }
+}
