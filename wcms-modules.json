@@ -1,12 +1,12 @@
 {
-  "version": 0.1,
+  "version": 1,
   "themes": {
-    "sky": {
+    "formaPsyche": {
       "name": "Forma Psyche",
       "repo": "https://github.com/Alp3n/formapsyche-wcms/tree/main",
       "zip": "https://github.com/Alp3n/formapsyche-wcms/archive/main.zip",
       "summary": "Szablon stworzony dla Forma Psyche",
-      "version": "0.1",
+      "version": "1.0.0",
       "image": "https://raw.githubusercontent.com/Alp3n/formapsyche-wcms/refs/heads/main/preview.jpg"
     }
   }
